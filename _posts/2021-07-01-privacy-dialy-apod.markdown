@@ -1,5 +1,10 @@
+---
+layout: post
+title:  "DialyApod - Privacy Policy"
+date:   2021-07-01 15:02:28 +0800
+categories: privacy
+---
 # DialyApod - Privacy Policy
-
 Purchases
 
 As we mentioned in pricing strategy, DialyApod Pro offers a higher discount for early supporters, achieved by accessing the app's purchase items.
